@@ -1,0 +1,11 @@
+html{
+    font-size:70px;
+    line-height:70px;
+    background-color:rgb(51, 255, 0);
+}
+
+body{
+    font-size:10px;
+    width: 1000px;
+    margin: 100px;
+}
